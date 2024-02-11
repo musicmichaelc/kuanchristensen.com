@@ -1,4 +1,11 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
-languageCode = 'en-us'
-title = 'Netlify + Hugo Quickstart'
-theme = 'netlify-basic'
+baseURL = 'https://kuanchristensen.com'
+languageCode = 'de-DE'
+theme = 'coming-soon'
+
+[params]
+  title = 'Kuan / Christensen Klavierduo'
+  description = "Bitte in Kürze noch einmal vorbeischauen"
+  FAVICON = ""
+  message = "Baldige Eröffnung..."
+  RELEASE = "Feb 14, 2024 14:00" 
+  background = ""
